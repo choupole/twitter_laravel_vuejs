@@ -21,7 +21,7 @@ defineProps({
     <AppLayout title="Profile">
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Les derniers tweets 
+                Les derniers tweets  
             </h2>
         </template>
         <tweet-create></tweet-create>
